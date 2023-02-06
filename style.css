@@ -90,10 +90,19 @@ h2{
 footer{
    position: absolute;
    text-align: center;
-   bottom: 310px;
+   bottom: 10px;
+   width: 150px;
+   height: 30px;
+   background: #7c7c7ccb;
+   border-radius: 10px;
+   padding-right: 5px; 
+   padding-top: 3px;
 }
 
 a{
     text-decoration: none;
-    color: rgb(178, 223, 95);
+    color: rgb(163, 202, 89);
+    width: 180px;
+    height: 30px;
+    align-items: center;
 }
